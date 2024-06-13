@@ -116,11 +116,6 @@ Join our Telegram helping group <a href="https://t.me/xnodesbot">Join Now</a>
   <h1>Watch Video 📽️</h1>
      Watch on Youtube <a href="https://youtu.be/OY_75SjPZSQ">Click now</a>
 
-   
-  <br>
-    <h1>Developer 🦋</h1>
-    <b><table><tr><th>Ｚ Ξ ＮＯＩ</th></tr><tr><td><a href="https://github.com/Zenoixnoize"><img src="https://telegra.ph/file/701702e9a949b18b6c59d.jpg" width="180"</td></tr></b>
-
 
 
 
