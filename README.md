@@ -21,7 +21,6 @@
   🦋 increase responsibility speed and Accelerated the bot for more fast </b>
   <br>
   <br>
-  <span style="float:right;"><img src="/Cloud/PicsArt_22-04-14_23-29-34-684.png"></span>
 
   <br>
  
