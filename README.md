@@ -34,14 +34,6 @@ Contains over 200+ plugins. This will give you a better experience on WhatsApp. 
  
   <img src="/Cloud/PicsArt_22-04-17_17-34-37-772.png">
     
-  <b><h1>To scan the Qr code and Link 🔗 to WhatsApp Multi Device (24×7 Hour Bot) 🛰️</b></h1>
-  
- <center>
-<a href="https://replit.com/@zenoi/Garfield-Whatsapp-Bot-Multidevice-Linker-v80?v=1outputonly=1&lite=1"><img src="/Cloud/PicsArt_22-04-16_22-52-38-348.png"></center>
-<br>
-   <b><h1>Deploy Now ♨️</b></h1>
-   <a href="https://heroku.com/deploy"><img src="/Cloud/PicsArt_22-04-15_12-59-28-786.png">
-<br>
 <b><h1>Privacy and Security 🔒</h1></b>
 This module does not harm your privacy or personal data. We do not have any of your access. This is a completely secure program.     
      This will not give us any funding. Only self-satisfaction is obtained
@@ -73,8 +65,6 @@ You can use it without any hesitation
    <br>
    <h1>𝖭Ξ𝖴𝖱Λ𝖫 ΛＩ❇️</h1>
    <br>
-   <center><img src="https://i.ibb.co/TcLVfMZ/Picsart-22-08-22-15-21-41-175.png">
-   <br>
      <br>
    Neural Ai is an automated program powered by a Tts engine
 This can currently only be used with Garfeel bots. The deV of this is ZENOI.
@@ -85,7 +75,6 @@ This can be used to make your work easier and even fun. Currently this is v1.0
      <br>
      <h1>𝖦Λ𝖱𝖥𝖨Ξ𝖫𝖣 𝖡𝖮Т</h1>
      <br>
-  <center><img src="/Cloud/logo.png">
     <br>
    <h1>Licence 📑</h1>
     This project is protected by GNU General Public Licence v3.0 ©️ Copyright 2022.
@@ -119,8 +108,6 @@ Also I am Student
    <h1>𝗩8.4 𝗡𝗲𝘄</h1>
    <b>This has been updated to the latest 2022 npm module and Latest Whatsapp Button Version. There are 120+ plugins. Deploying is quick and easy. Download speeds and upload speeds are very fast.The speed of response has increased. Fixed some bugs. Updated daily baileys 2022 Updated</b>    
   <br>
-   <br>
-  <center><img src="/Cloud/ezgif-4-e173d31b67.gif"></center>
   <br>
   
     
