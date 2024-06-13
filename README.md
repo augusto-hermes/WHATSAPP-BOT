@@ -1,10 +1,5 @@
 # 𝖦Λ𝖱𝖥𝖨Ξ𝖫𝖣 𝖡𝖮Т LATEST v10 Coming soon 😎
-# 🍂 (FIX BUGS And UI UPDATE) Please Select Region To Europe for Access Y2mate server
-<img src="/Cloud/PicsArt_22-04-17_16-25-53-440.png">
 
-<br>
-<center><img src="/Cloud/PicsArt_22-04-15_10-13-49-205.png"><center>
-  
  <br>
  <h1> New Features and upgrades v8.5 🛰️</h1>
  <br>
